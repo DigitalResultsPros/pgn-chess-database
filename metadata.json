@@ -1,0 +1,5 @@
+{
+  "name": "PGN Chess Database",
+  "description": "An application to store, manage, and visualize chess games from PGN files. Browse your database of games and step through the moves on a graphical chessboard.",
+  "requestFramePermissions": []
+}
