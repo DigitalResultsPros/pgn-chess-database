@@ -32,7 +32,7 @@ A web-based application to store, analyze, and replay your favorite chess games.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/pgn-chess-database.git
+    git clone git@github.com:DigitalResultsPros/pgn-chess-database.git
     ```
 2.  Navigate to the project directory:
     ```bash
